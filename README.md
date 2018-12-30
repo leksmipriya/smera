@@ -1,0 +1,2 @@
+# smera
+my learning project
